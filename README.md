@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SierraCare Clinic Service API
 
 SierraCare Clinic Service API is a FastAPI-based REST API designed to help users search and manage local clinic services in Sierra Leone.
@@ -57,3 +58,7 @@ This project supports SDG 3: Good Health and Well-Being by helping people locate
 
 ```bash
 pip install -r requirements.txt
+=======
+# PROGRAMMING-METHOD2-GROUP-PROJECT
+FASTAPI and PostgreSQL-based Clinic Service API for managing Clinics , Services and User authentication in Sierra Leone.
+>>>>>>> 06c891b09da96239570892b34e0a0bb3c779460a
